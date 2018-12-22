@@ -1,0 +1,16 @@
+{
+    "name": "bos-proxy-buffer",
+    "version": "1.0.0",
+    "description": "Proxy for BOS stratum",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "dependencies": {
+        "bos": "git://github.com/MintPond/bos.git"
+    },
+    "engines": {
+        "node": ">=8.9.1"
+    }
+}
